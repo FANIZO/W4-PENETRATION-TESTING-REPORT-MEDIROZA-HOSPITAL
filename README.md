@@ -320,5 +320,7 @@ The critical lesson is that none of these weaknesses is individually exotic; the
 ![E-11](screenshots/11_staff_table.png)
 
 👤 Author
+
 Irfan Mohamed
+
 Cybersecurity Professional
